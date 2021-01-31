@@ -1,0 +1,53 @@
+/*============================================================================
+    #SECTION-MENU-PROFILE
+=============================================================================*/
+
+/* Section responsible for the profile displayed on the page */
+
+.l-menu-profile {
+  padding-top: 3rem;
+}
+
+
+.c-menu-profile__image {
+  clip-path: circle(50% at 50% 51%);
+  width: 13rem;
+  height: 13rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.c-menu-profile__title {
+  @include textFormat(1.33rem,center,0.08rem,0.08em);
+  color: $color-headings;
+  padding-bottom: 1rem;
+  padding-top: 2rem;
+  text-transform: uppercase; 
+}
+
+
+.c-menu-profile__description {
+  @include textFormat(1.1rem,center,1rem,0.08em);
+  display: block;
+  color: $color-headings;
+  opacity: 0.6;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+
+
+
+
+/*============================================================================
+    #SECTION-LINKS-MENU
+=============================================================================*/
+
+/* Section responsible for the links displayed on the page */
+
+.l-links-menu {
+  @include displayFlex(flex,column,center,space-between);
+  margin-top: 0.05rem;
+  margin-bottom: 0.08rem;
+}

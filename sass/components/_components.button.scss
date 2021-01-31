@@ -1,0 +1,20 @@
+/*============================================================================
+    #BUTTON-COMPONENTS
+=============================================================================*/
+
+/*Advanced button styling */
+
+.c-links-menu__button {
+  display: block;
+  background-color: $background-button;
+  border-radius: 0.42rem;
+  border: none;
+  width: 44%;
+  transition: all 0.3s ease 0s;
+  outline: none;
+  line-height: 1.1rem;
+
+  &:hover {
+    background-color: $background-hover;
+  }
+}

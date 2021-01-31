@@ -1,98 +1,20 @@
+/*============================================================================
+    #MAIN-PAGE-CONTENT
+=============================================================================*/
+
+/* Main page meun */
+
+
 .l-page-content {
   margin: auto;
   width: calc(min(#{90vw,800px}));
   
 }
 
-.l-menu-profile {
-  padding-top: 3rem;
-  
-}
- 
-.c-menu-profile__image {
-  clip-path: circle(50% at 50% 51%);
-  width: 13rem;
-  height: 13rem;
-  margin-left: auto;
-  margin-right: auto;
-  
-  
-}
-
-.c-menu-profile__title {
-  color: $color-headings;
-  font-size: 1.33rem ;
-  padding-bottom: 1rem;
-  padding-top: 2rem;
-  text-transform: uppercase;
-  text-align: center;
-  line-height: 0.08rem;
-  letter-spacing: 0.08em;
-  
-}
-
-.c-menu-profile__description {
-  display: block;
-  color: $color-headings;
-  opacity: 0.6;
-  font-size: 1.1rem;
-  padding-top: 1rem;
-  text-align: center;
-  padding-bottom: 2rem;
-  letter-spacing: 0.08em;
-  line-height: 1rem;
-}
 
 
-.l-links-menu {
- margin-top: 0.05rem;
- margin-bottom: 0.08rem;
- display: flex;
- flex-direction: column;
- align-items: center;
-  justify-content: space-between;
-}
-
-.c-links-menu__button {
-  display: block;
-  background-color: $background-button;
-  border-radius: 0.42rem;
-  border: none;
-  width: 44%; 
-  transition: all 0.3s ease 0s;
-  outline: none;
-  line-height: 1.1rem;
 
 
-  &:hover{
-    background-color: $background-hover;
-    
-  }
-  
-}
-
-button {
-  width: 100%;
-  height: 51px;
-  border-bottom: 0.28rem;
-  cursor: pointer;
-  margin-bottom: 1.3rem;
-  
 
 
-}
-
-a {
-  text-decoration: none;
-  color: $color-button;
-  text-align: center;
-  font-size: 1.25rem;
-  letter-spacing: 0.06em;
-  
-
-  &:hover {
-    text-decoration: underline;
-  }
-
-}
 

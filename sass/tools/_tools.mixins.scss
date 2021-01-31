@@ -1,0 +1,26 @@
+/*============================================================================
+    #MIXINS
+=============================================================================*/
+
+/* Project Mixins */
+
+/* Mixin Display Flex */
+@mixin displayFlex($display, $direction, $align-items, $justify) {
+  display: $display;
+  flex-direction: $direction;
+  align-items: $align-items;
+  justify-content: $justify;
+}
+
+/* Text formatting mixin */
+@mixin textFormat($font-size,$text-align,$line-height,$letter-spacing){
+  font-size: $font-size;
+  text-align: $text-align;
+  line-height: $line-height;
+  letter-spacing: $letter-spacing;
+}
+
+
+
+  
+ 

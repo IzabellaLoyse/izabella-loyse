@@ -1,0 +1,18 @@
+/*============================================================================
+    #LINKS-ELEMENTS
+=============================================================================*/
+
+/*Basic Styling of links*/
+
+a {
+  text-decoration: none;
+  color: $color-button;
+  text-align: center;
+  font-size: 1.25rem;
+  letter-spacing: 0.06em;
+  transition: all 0.4s ease;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

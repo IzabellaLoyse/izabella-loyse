@@ -1,13 +1,8 @@
-/* 
-* CONTENTS
-*
-* SETTINGS
-* Colors............................Element colors
 
-*/
 
 /* SETTINGS */
 @import '../sass/tools/tools.colors';
+@import '../sass/tools/tools.mixins';
 
 
 /* GENERIC */
@@ -20,12 +15,17 @@
 @import '../sass/elements/elements.page';
 @import '../sass/elements/elements.body';
 @import '../sass/elements/elements.image';
+@import '../sass/elements/elements.link';
+@import '../sass/elements/elements.button';
 
 
 /* LAYOUT */
-@import '../sass/layout/layout.main.scss';
-@import '../sass/layout/layout.footer.scss';
+@import '../sass/layout/layout.main';
+@import '../sass/layout/layout.section';
+@import '../sass/layout/layout.footer';
 
+/* COMPONENTS */
+@import '../sass/components/components.button';
 
 /* RESPONSIVE */
-@import '../sass/responsive/responsive.responsive.scss';
+@import '../sass/responsive/responsive.responsive';

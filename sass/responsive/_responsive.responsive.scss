@@ -1,5 +1,8 @@
+/*============================================================================
+    #RESPONSIVE
+=============================================================================*/
 
-
+/*Sheet responsible for page responsiveness */
 
 @media (min-width: 768px) {
   html {
@@ -9,12 +12,12 @@
   .l-links-menu {
     margin-left: 5rem;
     display: grid;
-    grid-template-columns: repeat(2,4fr);
+    grid-template-columns: repeat(2, 4fr);
     gap: 1rem;
   }
 
   .c-links-menu__button {
-    width: 85%; 
+    width: 85%;
   }
 
   footer {
