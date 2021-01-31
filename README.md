@@ -4,14 +4,14 @@
  <img src="https://img.shields.io/static/v1?label=< />&message=IzabellaLoyse&color=4859f0&style=for-the-badge&logo=">
 </p>
 
-<h2> 📌 Sobre o projeto <h2>
+<h2> 📌 Sobre o projeto </h2>
 
 <p> 
 Página web contendo os links das minhas redes sociais e projetos.
 </p>
 <br>
 
-<h2> 💻 Interface do projeto <h2>
+<h2> 💻 Interface do projeto </h2>
 
 <p> A interface do projeto pode ser visualizada no <a href="https://www.figma.com/file/eIBBWHAsI2QF6koATEqmsN/Testando-o-FIGMA?node-id=1202%3A2">Figma</a>. </p>
  
