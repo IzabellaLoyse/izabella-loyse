@@ -6,17 +6,22 @@
 
 <h2> 📌 Sobre o projeto <h2>
 
-<p> Página web contendo os links das minhas redes sociais e projetos.</p>
+<p> 
+Página web contendo os links das minhas redes sociais e projetos.
+</p>
+<br>
 
 <h2> 💻 Interface do projeto <h2>
 
 <p> A interface do projeto pode ser visualizada no <a href="https://www.figma.com/file/eIBBWHAsI2QF6koATEqmsN/Testando-o-FIGMA?node-id=1202%3A2">Figma</a>. </p>
-
-<p> Acesse o site ;) <a href="https://izabellaloyse.tech/">Izabella Loyse</a>.
+ 
+<p> 
+Acesse o site ;) <a href="https://izabellaloyse.tech/">Izabella Loyse</a>.
 </p>
 
-<p> <img src="./assets/pagina.png" alt ="Captura de tela da página" width="400"> 
+<p> <img src="./assets/pagina.png" alt ="Captura de tela da página" width="600"> 
 </p>
+<br>
 
 <h2> ⚙️ Tecnologias utilizadas </h2>
  <p> 
