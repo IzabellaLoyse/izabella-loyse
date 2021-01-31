@@ -1,0 +1,31 @@
+/* 
+* CONTENTS
+*
+* SETTINGS
+* Colors............................Element colors
+
+*/
+
+/* SETTINGS */
+@import '../sass/tools/tools.colors';
+
+
+/* GENERIC */
+@import '../sass/generic/generic.reset';
+@import '../sass/generic/generic.box-sizing';
+@import '../sass/generic/generic.normalize';
+
+
+/* ELEMENTS */
+@import '../sass/elements/elements.page';
+@import '../sass/elements/elements.body';
+@import '../sass/elements/elements.image';
+
+
+/* LAYOUT */
+@import '../sass/layout/layout.main.scss';
+@import '../sass/layout/layout.footer.scss';
+
+
+/* RESPONSIVE */
+@import '../sass/responsive/responsive.responsive.scss';

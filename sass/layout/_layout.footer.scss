@@ -1,0 +1,35 @@
+/*============================================================================
+    #FOOTER
+=============================================================================*/
+
+/*Page footer style settings */
+
+footer {
+  height: 30%;
+  margin-top: 0.05rem;
+}
+
+
+footer hr {
+  color: $color-line;
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 0.6rem;
+}
+
+
+footer p,
+footer p strong {
+  text-align: center;
+  color: $color-headings;
+  letter-spacing: 0.08em;
+  line-height: 1rem;
+  font-size: 1rem;
+}
+
+
+footer p strong {
+  &:hover {
+    text-decoration: underline;
+  }
+}

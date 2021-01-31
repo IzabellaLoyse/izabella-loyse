@@ -1,0 +1,23 @@
+
+
+
+@media (min-width: 768px) {
+  html {
+    font-size: 100%; /* 16px */
+  }
+
+  .l-links-menu {
+    margin-left: 5rem;
+    display: grid;
+    grid-template-columns: repeat(2,4fr);
+    gap: 1rem;
+  }
+
+  .c-links-menu__button {
+    width: 85%; 
+  }
+
+  footer {
+    margin-top: 1rem;
+  }
+}
