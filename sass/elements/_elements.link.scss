@@ -6,13 +6,13 @@
 
 a {
   text-decoration: none;
-  color: $color-button;
+  color: #3671d9;
   text-align: center;
   font-size: 1.25rem;
   letter-spacing: 0.06em;
   transition: all 0.4s ease;
 
   &:hover {
-    text-decoration: underline;
+    cursor: pointer;
   }
 }
