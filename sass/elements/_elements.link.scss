@@ -9,10 +9,9 @@ a {
   color: hsl(235, 67%, 39%);
   text-align: center;
   font-size: 1.25rem;
-  letter-spacing: 0.06em;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.04em; 
   transition: all 0.4s ease;
 
-  &:hover {
-    cursor: pointer;
-  }
 }

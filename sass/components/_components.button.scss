@@ -7,14 +7,17 @@
 .c-links-menu__button {
   display: block;
   background-color: $background-button;
-  border-radius: 0.42rem;
+  border-radius: 0.50rem;
   border: none;
-  width: 44%;
+  width: 45%;
   transition: all 0.3s ease 0s;
   outline: none;
   line-height: 1.1rem;
+  box-shadow: 00 10px 6px -6px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
 
   &:hover {
     background-color: $background-hover;
   }
+
 }
