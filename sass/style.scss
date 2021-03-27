@@ -15,7 +15,6 @@
 @import '../sass/elements/elements.page';
 @import '../sass/elements/elements.body';
 @import '../sass/elements/elements.image';
-@import '../sass/elements/elements.link';
 @import '../sass/elements/elements.button';
 
 
@@ -26,6 +25,7 @@
 
 /* COMPONENTS */
 @import '../sass/components/components.button';
+@import '../sass/components/components.link';
 
 /* RESPONSIVE */
 @import '../sass/responsive/responsive.responsive';
